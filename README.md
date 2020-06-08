@@ -102,16 +102,19 @@ Features to work on:
         * Turn order
         * Map Features w/ summary if clicked. 
 
+    * Communications
+        * Whisper Chat
+        * Announced Chat
+
     * Character Sheet - Can be shared with party
         * Standard view
         * Priority view (customized)
+
     * Other Character Notes (with individual tabs per character)
         * Individual tabs for party characters (for relationships, opinions, etc)
         * Can add tabs for NPC notes.
         * View All tab
-    * Communications
-        * Whisper Chat
-        * Announced Chat
+
     * Important info
         * Story Updates/Notes
         * GM House Rules
