@@ -1,17 +1,56 @@
 @media only screen and (min-width: 65em) {
-    
-    /* ---------- Body ---------- */
-    body {}
 
-    /* ---------- Header ---------- */
-    header {}
+    /* ----- body ----- */
 
-    /* ---------- Nav ----------*/
-    nav {}
-    
-    /* ---------- Main ---------- */
-    main {}
 
-    /* ---------- Footer ---------- */
-    footer {}
+    /* ----- header ----- */
+
+
+    /* ----- nav ----- */
+
+
+    /* ----- main ----- */
+
+    .contentbox {
+        display: block;
+        flex-direction: row;
+    }
+
+    .hide {
+        display: none;
+    }
+
+    .right,
+    .right-top {
+        width: 50%;
+        float: right;
+    }
+
+    .spotlight {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .right-banner {
+        width: 100%;
+    }
+
+    .sidebyside {
+        flex-direction: column;
+    }
+
+    .temples.contentbox .sidebyside {
+        flex-direction: row;
+
+    }
+
+    /* ----- form ----- */
+    form label.sbs {
+        padding: 0.1rem 0;
+
+    }
+
+    /* ----- footer ----- */
+
+
 }

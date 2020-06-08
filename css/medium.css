@@ -1,23 +1,117 @@
 @media only screen and (min-width: 37.5em) {
 
-    /* ---------- Body ---------- */
-    body {}
+    /* ----- body ----- */
 
-    /* ---------- Header ---------- */
-    header {}
+    /* ----- header ----- */
 
-    /* ---------- Nav ----------*/
+
+    /* ----- nav ----- */
     .navigation {
         flex-flow: row;
     }
+
+    #menu {
+        display: none;
+    }
+
     .navigation li {
         display: block;
         flex: 1 1 100%;
     }
 
-    /* ---------- Main ---------- */
-    main {}
+    .navigation li a {
+        border: none;
+    }
 
-    /* ---------- Footer ---------- */
-    footer {}
+    .navigation li a:hover {
+        background-color: rgba(255, 255, 255, .5);
+    }
+
+    .navigation .subNav {
+        display: none;
+        background-color: rgba(130, 226, 157, .9);
+    }
+
+    .subNavigate:hover .subNav {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .navigation .subNav {
+        position: absolute;
+        width: 20%;
+    }
+
+    /* ----- main ----- */
+    main {
+        width: 85%;
+
+    }
+
+    .contentbox {
+        display: flex;
+        overflow: hidden;
+        padding-bottom: 1%;
+    }
+
+    .temples article, .service .contentbox {
+        display: block;
+    }
+
+    .right {
+        float: right;
+        width: 40%;
+        padding: 0 0 1% 2%;
+        max-width: 500px;
+    }
+
+    .temples article {
+        padding: 20px 10%;
+        
+    }
+
+    .sidebyside {
+        display: flex;
+    }
+
+    .spotlight,
+    .temples {
+        display: block;
+    }
+
+    .right-banner {
+        float: right;
+        width: 50%;
+    }
+
+    .leftcol,
+    .rightcol {
+        width: 100%;
+        flex: 1 1 auto;
+        text-align: left;
+
+    }
+
+    .leftcol {
+        margin-right: 2.5px;
+    }
+
+    .rightcol {
+        margin-left: 2.5px;
+    }
+    
+    .mid {
+        align-self: center;
+    }
+
+    /* ----- form ----- */
+
+
+
+    /* ----- footer ----- */
+    footer {
+        width: 85%;
+    }
+
 }
