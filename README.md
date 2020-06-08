@@ -32,7 +32,11 @@ Features to work on:
         * Buildings not visible until inside
         * Obstructed view from buildings
     * Sounds - faint background noise sounds played to individual players.
+        * Embedded sound clips, Bard Songs, background music, emphasis
     * Shop interface
+        * Pre-established shops
+        * GM providence (Item request system)
+        * Player Trading/Gifting system
 
 * Character creation (Examples from D&D)
     * General Info
