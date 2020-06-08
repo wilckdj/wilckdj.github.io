@@ -1,0 +1,45 @@
+/* ---------- Body ---------- */
+body{
+    background-color: azure;
+}
+
+/* ---------- Header ---------- */
+header{
+    display: flex;
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+/* ---------- Nav ----------*/
+nav {
+    background-color: lightseagreen;
+    text-align: center;
+}
+
+.navigation,
+.subNav {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    flex-flow: column;
+}
+
+/* ---------- Main ---------- */
+main {
+
+}
+
+
+.placeholder {
+    background-color: lightgray;
+    border: 2px dashed black;
+    width: 100%;
+    height: 100px;
+    border-radius: 10px;
+}
+
+/* ---------- Footer ---------- */
+footer {
+    background-color: blanchedalmond;
+}

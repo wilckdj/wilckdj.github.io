@@ -1,0 +1,17 @@
+@media only screen and (min-width: 65em) {
+    
+    /* ---------- Body ---------- */
+    body {}
+
+    /* ---------- Header ---------- */
+    header {}
+
+    /* ---------- Nav ----------*/
+    nav {}
+    
+    /* ---------- Main ---------- */
+    main {}
+
+    /* ---------- Footer ---------- */
+    footer {}
+}

@@ -1,0 +1,23 @@
+@media only screen and (min-width: 37.5em) {
+
+    /* ---------- Body ---------- */
+    body {}
+
+    /* ---------- Header ---------- */
+    header {}
+
+    /* ---------- Nav ----------*/
+    .navigation {
+        flex-flow: row;
+    }
+    .navigation li {
+        display: block;
+        flex: 1 1 100%;
+    }
+
+    /* ---------- Main ---------- */
+    main {}
+
+    /* ---------- Footer ---------- */
+    footer {}
+}
