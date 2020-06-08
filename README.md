@@ -11,6 +11,9 @@ Features to work on:
             * GM at any time
             * Player on turns
             * Moved by circumstance/rule
+        * Damaged appearances (bloodied, afflictions)
+        * Player-based notes
+            Players able to click on another's tokens to pull up a page for notes/communication. 
     * Map Layout
         * Grid Layer over image
             * Square grids
@@ -23,19 +26,42 @@ Features to work on:
             * Hazard zones
             * Disabled zones
             * Direction-limited movement (i.e. doors, ledges, walls, ladders, etc.)
+            * Brightness
+            * Traps/obstacles with DC limits
     * Map Rooms
         * Buildings not visible until inside
         * Obstructed view from buildings
     * Sounds - faint background noise sounds played to individual players.
 
-* Character creation
-    * 
+* Character creation (Examples from D&D)
+    * General Info
+        * Name 
+        * Description (Race)
+        * Role (Class)
+        * Allignment
+        * Size
+        * Image/Avatar
+    * Stats
+        * General 6 (Str, Cha, Con, Dex, Int, Wis)
+            * Sub-categories chosen for game (established by GM)
+        * Health (HP), Defense (AC), Afflictions, Movement speed, Sight (passive perception, light-level), Initiative
+        * Unique Stats (Ki Points, Sorcery Points, Spell Points)
+        * Proficiencies and other bonuses
+
 * GM communication to players
-    * Whisper feature, can give unique information to individuals
+    * Whisper feature, can give unique information to individuals.
     * Announcement feature, can give general information to all (i.e. countdown timers, meta-game reminders, in-game writing, etc. )
+        * Can be tagged based on language, only visible to characters who are fluent in it. (Encrypted if not fluent at the time of receipt?)
     * Records information the PC should know for future reference. 
         * Player notes or GM reminders.  
     * Tags such as *Meta* or *in-game* differentiate what info should be used during play. 
+
+* Player communication 
+    * Whisper feature - To plan out a team up, (Visible after encounter? Visible to GM?)
+    * Announcement feature - To communicate to all reminders/notes, can be limited by GM. Can specify language, GM knows all. 
+    * Visible "dice" roles. 
+    * IRL Communication
+        * Ideal communication in person or by phone/video call. 
 
 * GM house rulebook
     * Debates settled by GM recorded for future reference (i.e. tie-breakers, roll-modifiers, item/power combos, etc.)
