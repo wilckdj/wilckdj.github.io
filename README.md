@@ -70,5 +70,35 @@ Features to work on:
     * GM can choose to cancel any previously-recorded rule. 
     * Can be scribed by players, approved by GM before posting. 
 
+* Encounter Features
+    * Turn-based initiative
+        * Turn order visible in list and on token
+    * Movement Action - speed based
+        * Accessible squares highlighted
+    * Standard Action 
+    * Bonus Action
+    * Free Action
+
+* Page Layout
+    * Map View
+        * Token manipulation
+        * Character note summary
+        * Turn order
+        * Map Features w/ summary if clicked. 
+
+    * Character Sheet - Can be shared with party
+        * Standard view
+        * Priority view (customized)
+    * Other Character Notes (with individual tabs per character)
+        * Individual tabs for party characters (for relationships, opinions, etc)
+        * Can add tabs for NPC notes.
+        * View All tab
+    * Communications
+        * Whisper Chat
+        * Announced Chat
+    * Important info
+        * Story Updates/Notes
+        * GM House Rules
+
 Features Completed: 
 * None
