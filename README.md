@@ -32,21 +32,33 @@ Features to work on:
         * Buildings not visible until inside
         * Obstructed view from buildings
     * Sounds - faint background noise sounds played to individual players.
+    * Shop interface
 
 * Character creation (Examples from D&D)
     * General Info
-        * Name 
+        * Player Name
+        * Character Name 
         * Description (Race)
         * Role (Class)
         * Allignment
         * Size
         * Image/Avatar
+            * Shapeshifting capability
     * Stats
         * General 6 (Str, Cha, Con, Dex, Int, Wis)
             * Sub-categories chosen for game (established by GM)
         * Health (HP), Defense (AC), Afflictions, Movement speed, Sight (passive perception, light-level), Initiative
         * Unique Stats (Ki Points, Sorcery Points, Spell Points)
         * Proficiencies and other bonuses
+    * Inventories
+        * Items
+        * Money
+        * Carrying capacity
+        * Extra Storage
+    * Companions 
+        * Pets
+        * Familiars
+        * Steeds
 
 * GM communication to players
     * Whisper feature, can give unique information to individuals.
