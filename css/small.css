@@ -110,8 +110,9 @@ main h2 {
     background-color: lightgray;
     border: 2px dashed black;
     width: 100%;
-    height: 100px;
+    height: 500px;
     border-radius: 10px;
+    margin: 10px 0;
 }
 
 .contentbox {

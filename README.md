@@ -38,6 +38,9 @@ Features to work on:
         * GM providence (Item request system)
         * Player Trading/Gifting system
 
+    * Multiple Maps per game room
+        * Map Choice by GM
+
 * Character creation (Examples from D&D)
     * General Info
         * Player Name

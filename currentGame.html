@@ -4,18 +4,36 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="css/small.css">
+    <link rel="stylesheet" href="css/medium.css">
+    <link rel="stylesheet" href="css/large.css">
 </head>
 <body>
+    <header>
+        <!--<img class="logo" src="images/logo.png" alt="logo for TabletTop Games">-->
+        <div>
+            <h1 class = "roomName">Example Room</h1>
+            <h6><span class = "gameName">Game Name</span> - <span class = "hostName">Host Name</span></h6>
+            
+        </div>
+    </header>
     <nav>
-        <ul>
-            <li><a href="/index.html">Save and Exit</a></li>
+        <ul class = "navigation">
             <li><a href="#">Game Board</a></li>
             <li><a href="#">Chats</a></li>
-            <li><a href="#">Character Sheet</a></li>
+            <li><a href="#">Character</a></li>
             <li><a href="#">Notes</a></li>
             <li><a href="#">Important Info</a></li>
-
+            <li><a href="/index.html">Save and Exit</a></li>
         </ul>
     </nav>
+    <main>
+        <div class="placeholder" id="phaserMap">
+        </div>
+    </main>
+    <footer>
+        <p>&copy; <span id="copyright"></span> D. Joseph Wilcken | <a href="references.html">References</a> | <span
+                id="updated"></span></p>
+    </footer>
 </body>
 </html>
