@@ -1,0 +1,274 @@
+{
+    "cards": [{
+        "name": "Joker 1",
+        "order": "1",
+        "symbol": "Joker1"
+        },
+        {
+        "name": "Joker 2",
+        "order": "2",
+        "symbol": "Joker2"
+        },
+        {
+        "name": "Ace of Spades",
+        "order": "3",
+        "symbol": "A&#9824"
+        },
+        {
+        "name": "2 of Spades",
+        "order": "4",
+        "symbol": "2&#9824"
+        },
+        {
+        "name": "3 of Spades",
+        "order": "5",
+        "symbol": "3&#9824"
+        },
+        {
+        "name": "4 of Spades",
+        "order": "6",
+        "symbol": "4&#9824"
+        },
+        {
+        "name": "5 of Spades",
+        "order": "7",
+        "symbol": "5&#9824"
+        },
+        {
+        "name": "6 of Spades",
+        "order": "8",
+        "symbol": "6&#9824"
+        },
+        {
+        "name": "7 of Spades",
+        "order": "9",
+        "symbol": "7&#9824"
+        },
+        {
+        "name": "8 of Spades",
+        "order": "10",
+        "symbol": "8&#9824"
+        },
+        {
+        "name": "9 of Spades",
+        "order": "11",
+        "symbol": "9&#9824"
+        },
+        {
+        "name": "10 of Spades",
+        "order": "12",
+        "symbol": "10&#9824"
+        },
+        {
+        "name": "Jack of Spades",
+        "order": "13",
+        "symbol": "J&#9824"
+        },
+        {
+        "name": "Queen of Spades",
+        "order": "14",
+        "symbol": "Q&#9824"
+        },
+        {
+        "name": "King of Spades",
+        "order": "15",
+        "symbol": "K&#9824"
+        },
+        {
+        "name": "Ace of Diamonds",
+        "order": "16",
+        "symbol": "A&#9830"
+        },
+        {
+        "name": "2 of Diamonds",
+        "order": "17",
+        "symbol": "2&#9830"
+        },
+        {
+        "name": "3 of Diamonds",
+        "order": "18",
+        "symbol": "3&#9830"
+        },
+        {
+        "name": "4 of Diamonds",
+        "order": "19",
+        "symbol": "4&#9830"
+        },
+        {
+        "name": "5 of Diamonds",
+        "order": "20",
+        "symbol": "5&#9830"
+        },
+        {
+        "name": "6 of Diamonds",
+        "order": "21",
+        "symbol": "6&#9830"
+        },
+        {
+        "name": "7 of Diamonds",
+        "order": "22",
+        "symbol": "7&#9830"
+        },
+        {
+        "name": "8 of Diamonds",
+        "order": "23",
+        "symbol": "8&#9830"
+        },
+        {
+        "name": "9 of Diamonds",
+        "order": "24",
+        "symbol": "9&#9830"
+        },
+        {
+        "name": "10 of Diamonds",
+        "order": "25",
+        "symbol": "10&#9830"
+        },
+        {
+        "name": "Jack of Diamonds",
+        "order": "26",
+        "symbol": "J&#9830"
+        },
+        {
+        "name": "Queen of Diamonds",
+        "order": "27",
+        "symbol": "Q&#9830"
+        },
+        {
+        "name": "King of Diamonds",
+        "order": "28",
+        "symbol": "K&#9830"
+        },
+        {
+        "name": "King of Clubs",
+        "order": "29",
+        "symbol": "K&#9827"
+        },
+        {
+        "name": "Queen of Clubs",
+        "order": "30",
+        "symbol": "Q&#9827"
+        },
+        {
+        "name": "Jack of Clubs",
+        "order": "31",
+        "symbol": "J&#9827"
+        },
+        {
+        "name": "10 of Clubs",
+        "order": "32",
+        "symbol": "10&#9827"
+        },
+        {
+        "name": "9 of Clubs",
+        "order": "33",
+        "symbol": "9&#9827"
+        },
+        {
+        "name": "8 of Clubs",
+        "order": "34",
+        "symbol": "8&#9827"
+        },
+        {
+        "name": "7 of Clubs",
+        "order": "35",
+        "symbol": "7&#9827"
+        },
+        {
+        "name": "6 of Clubs",
+        "order": "36",
+        "symbol": "6&#9827"
+        },
+        {
+        "name": "5 of Clubs",
+        "order": "37",
+        "symbol": "5&#9827"
+        },
+        {
+        "name": "4 of Clubs",
+        "order": "38",
+        "symbol": "4&#9827"
+        },
+        {
+        "name": "3 of Clubs",
+        "order": "39",
+        "symbol": "3&#9827"
+        },
+        {
+        "name": "2 of Clubs",
+        "order": "40",
+        "symbol": "2&#9827"
+        },
+        {
+        "name": "Ace of Clubs",
+        "order": "41",
+        "symbol": "A&#9827"
+        },
+        {
+        "name": "King of Hearts",
+        "order": "42",
+        "symbol": "K&#9829"
+        },
+        {
+        "name": "Queen of Hearts",
+        "order": "43",
+        "symbol": "Q&#9829"
+        },
+        {
+        "name": "Jack of Hearts",
+        "order": "44",
+        "symbol": "J&#9829"
+        },
+        {
+        "name": "10 of Hearts",
+        "order": "45",
+        "symbol": "10&#9829"
+        },
+        {
+        "name": "9 of Hearts",
+        "order": "46",
+        "symbol": "9&#9829"
+        },
+        {
+        "name": "8 of Hearts",
+        "order": "47",
+        "symbol": "8&#9829"
+        },
+        {
+        "name": "7 of Hearts",
+        "order": "48",
+        "symbol": "7&#9829"
+        },
+        {
+        "name": "6 of Hearts",
+        "order": "49",
+        "symbol": "6&#9829"
+        },
+        {
+        "name": "5 of Hearts",
+        "order": "50",
+        "symbol": "5&#9829"
+        },
+        {
+        "name": "4 of Hearts",
+        "order": "51",
+        "symbol": "4&#9829"
+        },
+        {
+        "name": "3 of Hearts",
+        "order": "52",
+        "symbol": "3&#9829"
+        },
+        {
+        "name": "2 of Hearts",
+        "order": "53",
+        "symbol": "2&#9829"
+        },
+        {
+        "name": "Ace of Hearts",
+        "order": "54",
+        "symbol": "A&#9829"
+        }
+            
+    ]
+}
