@@ -7,19 +7,19 @@
     <link rel="stylesheet" href="/css/card.css">
 </head>
 <body>
-
+    <select id="action" Size=4>  
+        <option value="moveDiscard"> Discard Card </option>  
+        <option value="moveHand"> Draw Card </option>  
+        <option value="flip"> View Card </option>  
+        <option value="shuffle"> Shuffle Deck </option>  
+    </select>  
     <div id="table">
 
         <div id="deck" class="pile"></div>
         <div id="discard" class= "pile"></div>
         <div id="player1" class= "hand"></div>
         <div id="player2" class= "hand"></div>
-        <select id="action" Size=4>  
-            <option value="moveDiscard"> Discard Card </option>  
-            <option value="moveHand"> Draw Card </option>  
-            <option value="flip"> View Card </option>  
-            <option value="shuffle"> Shuffle Deck </option>  
-        </select>  
+
     </div>
     <button onclick="list()">View Deck</button>
     <p id=cardlist></p>
