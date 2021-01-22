@@ -108,3 +108,14 @@ function cardAction(cardID) {
     }
     
 }
+
+function list() {
+    document.getElementById("cardlist").innerHTML = ""
+    let deck = document.getElementById("deck")
+    var i
+    let card = deck.getElementsByClassName("card")
+
+    for (let i = 0; i < card.length; i++) {
+        document.getElementById("cardlist").innerHTML += (card[i].id +" "+ card[i].getElementsByTagName("p")[0].innerHTML + ",<br>");
+    }
+}
